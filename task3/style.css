@@ -1,0 +1,39 @@
+.container{
+    height: 100vh;
+    width: 100%;
+  
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.sub-container{
+    height: 700px;
+    width: 900px;
+  
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.form-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100px;
+    width: 800px;
+}
+
+.table-container th{
+    padding-left: 100px;
+    padding-right: 100px;
+    border: 1px solid #000000;
+}
+
+.table-container td{
+     padding-left: 100px;
+    padding-right: 100px;
+    border: 1px solid #000000;
+}
